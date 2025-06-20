@@ -46,7 +46,7 @@ Todo el contenido teórico, guías prácticas, datasets de ejemplo y scripts de 
 - Proveer una introducción a las bases teóricas de la dinámica molecular y la mecánica estadística.  
 - Capacitar a los estudiantes para configurar, ejecutar y analizar simulaciones moleculares.  
 - Desarrollar habilidades para interpretar resultados y relacionar conceptos teóricos con observaciones prácticas.  
-- Incentivar el uso de simulaciones computacionales como herramientas complementarias a los experimentos físicos.
+- Incentivar el uso de simulaciones computacionales como herramientas complementarias a los experimentos físicos. 
 
 ---
 
