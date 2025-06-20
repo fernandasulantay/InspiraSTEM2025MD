@@ -1,6 +1,6 @@
-# InspiraSTEM2025MD
+# InspiraSTEM2025MD - Experimentos Moleculares en la Computadora: Dinámica en Acción
 
-# Experimentos Moleculares en la Computadora: Dinámica en Acción
+Syllabus & Recursos del Workshop
 
 ## Índice
 - [Descripción general](#descripción-general)
