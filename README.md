@@ -56,7 +56,6 @@ Todo el contenido teórico, guías prácticas, datasets de ejemplo y scripts de 
 **Meta del día:** Comprender los conceptos básicos de simulaciones moleculares y cómo preparar un sistema para su simulación.  
 **Temas:**
 - [¿Qué es la dinámica molecular (MD) y para qué sirve?](https://es.wikipedia.org/wiki/Din%C3%A1mica_molecular)
-- Diferencias con simulaciones de Monte Carlo.
 - Conceptos fundamentales: energía potencial, temperatura, fuerzas.
 - Campo de fuerza (force fields): definición y ejemplos comunes.
 - Preparación de un sistema inicial: coordenadas, topología, parámetros.
@@ -65,8 +64,6 @@ Todo el contenido teórico, guías prácticas, datasets de ejemplo y scripts de 
 ### Día 2: Ejecución de Simulaciones y Control Termodinámico  
 **Meta del día:** Aprender a ejecutar una simulación MD controlando condiciones físicas y monitorear su estabilidad.  
 **Temas:**
-- Qué es un ensemble: NVE, NVT, NPT (definición y uso práctico).
-- Concepto de ergodicidad y muestreo de configuraciones.
 - Termostatos y barostatos.
 - Timestep y estabilidad numérica.
 - Minimización de energía y equilibration.
